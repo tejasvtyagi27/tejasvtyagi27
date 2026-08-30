@@ -1,16 +1,30 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**tejasvtyagi27/tejasvtyagi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student 
+## 🌐 Socials:
 
-Here are some ideas to get you started:
+<!-- Replace the '#' symbols inside the parenthesis below with your actual profile links -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/tejasv-tyagi-4a873b322)
+[![YouTube](https://shields.io)](https://www.youtube.com/@atozinformation1865)
+[![Email](https://shields.io)](mailto:your.tejasvtyagi9@gmail.com)
+
+## 💻 Tech Stack:
+
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![C++](https://shields.io)
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+![Vercel](https://shields.io)
+![MongoDB](https://shields.io)
+![MySQL](https://shields.io)
+![Canva](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![kotlin](https://shields.io)
+
+## 📊 GitHub Stats:
+
+<!-- Replace YOUR_GITHUB_USERNAME with your exact GitHub username -->
+![My GitHub Stats](https://vercel.com/tejasv-tyagi-s-projects)
