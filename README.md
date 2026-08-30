@@ -1,13 +1,12 @@
 # 💫 About Me:
 
 Computer Science Engineering Student 
+
 ## 🌐 Socials:
 
-<!-- Replace the '#' symbols inside the parenthesis below with your actual profile links -->
-
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/tejasv-tyagi-4a873b322)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![YouTube](https://shields.io)](https://www.youtube.com/@atozinformation1865)
-[![Email](https://shields.io)](mailto:your.tejasvtyagi9@gmail.com)
+[![Email](https://shields.io)](mailto:tejasvtyagi9@gmail.com)
 
 ## 💻 Tech Stack:
 
@@ -22,9 +21,9 @@ Computer Science Engineering Student
 ![Canva](https://shields.io)
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
-![kotlin](https://shields.io)
+![Kotlin](https://shields.io)
 
 ## 📊 GitHub Stats:
 
-<!-- Replace YOUR_GITHUB_USERNAME with your exact GitHub username -->
-![My GitHub Stats](https://vercel.com/tejasv-tyagi-s-projects)
+![Tejasv's GitHub Stats](https://vercel.app)
+
