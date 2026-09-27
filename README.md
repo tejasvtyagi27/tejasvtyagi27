@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=180&section=header&text=Tejasv%20Tyagi&fontSize=40&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20B.Tech%20CSE%20%E2%80%9928&descAlignY=58&descSize=14&descColor=CBD5E1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=180&section=header&text=Tejasv%20Tyagi&fontSize=40&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20B.Tech%20CSE%20%E2%80%9928&descAlignY=58&descSize=14&descColor=CBD5E1" />
 
 </div>
 
@@ -73,7 +73,7 @@ A Computer Science Engineering Student
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejasvtyagi27&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&cache_seconds=1800" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vss280107-bit&theme=github-dark-blue&hide_border=true&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=CBD5E1" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvtyagi27&theme=github-dark-blue&hide_border=true&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=CBD5E1" />
 
 <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvtyagi27&layout=compact&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&cache_seconds=1800" />
 
