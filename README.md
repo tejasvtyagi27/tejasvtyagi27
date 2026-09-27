@@ -1,35 +1,6 @@
-# 💫 About Me:
-
-Computer Science Engineering Student 
-
-## 🌐 Socials:
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![YouTube](https://shields.io)](https://www.youtube.com/@atozinformation1865)
-[![Email](https://shields.io)](mailto:tejasvtyagi9@gmail.com)
-
-## 💻 Tech Stack:
-
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![C++](https://shields.io)
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![Vercel](https://shields.io)
-![MongoDB](https://shields.io)
-![MySQL](https://shields.io)
-![Canva](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Kotlin](https://shields.io)
-
-## 📊 GitHub Stats:
-
-![Tejasv's GitHub Stats](https://vercel.app)
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=180&section=header&text=Vanshika%20Saxena&fontSize=40&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20B.Tech%20CSE%20%E2%80%9928&descAlignY=58&descSize=14&descColor=CBD5E1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=180&section=header&text=Tejasv%20Tyagi&fontSize=40&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20B.Tech%20CSE%20%E2%80%9928&descAlignY=58&descSize=14&descColor=CBD5E1" />
 
 </div>
 
@@ -47,6 +18,10 @@ Computer Science Engineering Student
 A Computer Science Engineering Student 
 
 <hr/>
+
+## 📊 GitHub Stats:
+
+![Tejasv's GitHub Stats](https://vercel.app)
 
 ## Skills
 
@@ -71,7 +46,7 @@ A Computer Science Engineering Student
 
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=22D3EE)
 ![Express](https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=22D3EE)
-![NestJS](https://img.shields.io/badge/NestJS-0F172A?style=flat-square&logo=nestjs&logoColor=22D3EE)
+![NextJS](https://img.shields.io/badge/NestJS-0F172A?style=flat-square&logo=nestjs&logoColor=22D3EE)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=22D3EE)
 
 </td></tr>
@@ -97,10 +72,10 @@ A Computer Science Engineering Student
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vss280107-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejasvtyagi27&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&cache_seconds=1800" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vss280107-bit&theme=github-dark-blue&hide_border=true&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=CBD5E1" />
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vss280107-bit&layout=compact&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&cache_seconds=1800" />
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvtyagi27&layout=compact&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&cache_seconds=1800" />
 
 </div>
 
@@ -121,7 +96,7 @@ A Computer Science Engineering Student
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/tejasv-tyagi-4a873b322/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/tejasv-tyagi-4a873b322/)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/tejasvtyagi27)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:tejasvtyagi9@gmail.com)
 
