@@ -80,16 +80,6 @@ A Computer Science Engineering Student
 </div>
 
 <hr/>
-
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tejasvtyagi27/tejasvtyagi27/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
 <hr/>
 
 ## Connect
